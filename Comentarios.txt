@@ -1,0 +1,1 @@
+Compañeros faltan los archivos que me permitan evidenciar el funcionamiento de dos puertos con la ram.
