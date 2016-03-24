@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1457958646 source:h:\2016\microprocesdores\avr\test_3ram\fuse.c
+	<avr/io.h>
+
+1457101563 source:h:\2016\microprocesdores\avr\test_3ram\procesador.c
+	"procesador.h"
+
+1457101572 h:\2016\microprocesdores\avr\test_3ram\procesador.h
+	<avr/io.h>
+	<util/delay.h>
+
